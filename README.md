@@ -5,4 +5,4 @@ This Tool lets you create a Avro schema file from existing Hive table. You can u
 
 https://github.com/maxmithun/AvroSchemaGenTool
 
-Usage : java -jar Jarfile.jar <database> <table> <Schema-filename.avsc> <namespace> <comment>
+Usage : java -jar Jarfile.jar &lt;database&gt; &lt;table&gt; &lt;Schema-filename.avsc&gt; &lt;namespace&gt; &lt;comment&gt;
